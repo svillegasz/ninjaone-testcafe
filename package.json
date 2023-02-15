@@ -1,0 +1,23 @@
+{
+  "name": "ninjaone-testcafe",
+  "version": "1.0.0",
+  "description": "Ninjaone test cafe challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svillegasz/ninjaone-testcafe.git"
+  },
+  "keywords": [
+    "test",
+    "cafe"
+  ],
+  "author": "svillegasz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svillegasz/ninjaone-testcafe/issues"
+  },
+  "homepage": "https://github.com/svillegasz/ninjaone-testcafe#readme"
+}
