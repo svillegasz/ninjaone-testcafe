@@ -4,7 +4,7 @@
   "description": "Ninjaone test cafe challenge",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "testcafe chrome specs/**/*.ts"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/svillegasz/ninjaone-testcafe/issues"
   },
-  "homepage": "https://github.com/svillegasz/ninjaone-testcafe#readme"
+  "homepage": "https://github.com/svillegasz/ninjaone-testcafe#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "testcafe": "^2.3.1"
+  }
 }
